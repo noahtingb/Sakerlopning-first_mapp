@@ -1,0 +1,184 @@
+Abkhaz	аҧсуа	ab
+Afar	Afaraf	aa
+Afrikaans	Afrikaans	af
+Akan, Twi-Fante	Akan	ak
+Albanian	Shqip	sq
+Amharic	አማርኛ	am
+Arabic	العربية	ar
+Aragonese	Aragonés	an
+Armenian	Հայերեն	hy
+Assamese	অসমীয়া	as
+Avaric	авар мацӀ, магӀарул мацӀ	av
+Avestan	avesta	ae
+Aymara	aymar aru	ay
+Azerbaijani	azərbaycan dili	az
+Bambara	bamanankan	bm
+Bashkir	башҡорт теле	ba
+Basque	euskara, euskera	eu
+Belarusian	Беларуская	be
+Bengali	বাংলা	bn
+Bihari	भोजपुरी	bh
+Bislama	Bislama	bi
+Bosnian	bosanski jezik	bs
+Breton	brezhoneg	br
+Bulgarian	български език	bg
+Burmese	ဗမာစာ	my
+Catalan	Català	ca
+Chamorro	Chamoru	ch
+Chechen	нохчийн мотт	ce
+Chichewa; Chewa; Nyanja	chiCheŵa, chinyanja	ny
+Chinese	中文 (Zhōngwén), 汉语, 漢語	zh
+Chuvash	чӑваш чӗлхи	cv
+Cornish	Kernewek	kw
+Corsican	corsu, lingua corsa	co
+Cree	ᓀᐦᐃᔭᐍᐏᐣ	cr
+Croatian	hrvatski	hr
+Czech	česky, čeština	cs
+Danish	dansk	da
+Divehi; Dhivehi; Maldivian;	ދިވެހި	dv
+Dutch	Nederlands, Vlaams	nl
+Dzongkha	རྫོང་ཁ	dz
+English	English	en
+Esperanto	Esperanto	eo
+Estonian	eesti, eesti keel	et
+Ewe	Eʋegbe	ee
+Faroese	føroyskt	fo
+Fijian	vosa Vakaviti	fj
+Finnish	suomi, suomen kieli	fi
+French	français, langue française	fr
+Fula	Fulfulde, Pulaar, Pular	ff
+Galician	Galego	gl
+Georgian	ქართული	ka
+German	Deutsch	de
+Greek, Modern	Ελληνικά	el
+Guaraní	Avañe'ẽ	gn
+Gujarati	ગુજરાતી	gu
+Haitian; Haitian Creole	Kreyòl ayisyen	ht
+Hausa	Hausa, هَوُسَ	ha
+Hebrew	עברית	he
+Herero	Otjiherero	hz
+Hindi	हिन्दी, हिंदी	hi
+Hiri Motu	Hiri Motu	ho
+Hungarian	Magyar	hu
+Icelandic	Íslenska	is
+Ido	Ido	io
+Igbo	Asụsụ Igbo	ig
+Indonesian	Bahasa Indonesia	id
+Interlingua	Interlingua	ia
+Interlingue	Originally called Occidental; then Interlingue after WWII[citation needed]	i.e.
+Inuktitut	ᐃᓄᒃᑎᑐᑦ	iu
+Inupiaq	Iñupiaq, Iñupiatun	ik
+Irish	Gaeilge	ga
+Italian	Italiano	it
+Japanese	日本語 (んご)	ja
+Javanese	basa Jawa	jv
+Kalaallisut, Greenlandic	kalaallisut, kalaallit oqaasii	kl
+Kannada	ಕನ್ನಡ	kn
+Kanuri	Kanuri	kr
+Kashmiri	कश्मीरी	ks
+Kazakh	Қазақ тілі	kk
+Khmer, Cambodian	ភាសាខ្មែរ	km
+Kikuyu, Gikuyu	Gĩkũyũ	ki
+Kinyarwanda	Ikinyarwanda	rw
+Kirghiz	кыргыз тили	ky
+Kirundi	kiRundi	rn
+Komi	коми кыв	kv
+Kongo	KiKongo	kg
+Korean	한국어(韓國語), 조선어 (韓國語), 조선말 (朝鮮語)	ko
+Kurdish	Kurdî, كوردی	ku
+Kwanyama, Kuanyama	Kwanyama	kj
+Lao	ພາສາລາວ	lo
+Latin	latine, lingua Latina	la
+Latvian	latviešu valoda	lv
+Limburgish, Limburgan, Limburger	Limburgs	li
+Lingala	Lingála	ln
+Lithuanian	lietuvių kalba	lt
+Luba-Katanga	Kiluba	lu
+Luganda	Luganda	lg
+Luxembourgish, Letzeburgesch	Lëtzebuergesch	lb
+Macedonian	македонски јазик	mk
+Malagasy	Malagasy fiteny	mg
+Malay	bahasa Melayu, بهاس ملايو	ms
+Malayalam	മലയാളം	ml
+Maltese	Malti	mt
+Manx	Gaelg, Gailck	gv
+Māori	te reo Māori	mi
+Marathi (Marāṭhī)	मराठी	mr
+Marshallese	Kajin M̧ajeļ	mh
+Mongolian	монгол	mn
+Nauru	Ekakairũ Naoero	na
+Navajo, Navaho	Diné bizaad, Dinékʼehǰí	nv
+Ndonga	Owambo	ng
+Nepali	नेपाली	ne
+North Ndebele	isiNdebele	nd
+Northern Sami	Davvisámegiella	se
+Norwegian	Norsk	no
+Norwegian Bokmål	Norsk bokmål	nb
+Norwegian Nynorsk	Norsk nynorsk	nn
+Nuosu	ꆈꌠ꒿ Nuosuhxop	ii
+Occitan	Occitan	oc
+Ojibwe, Ojibwa	ᐊᓂᔑᓈᐯᒧᐎᓐ	oj
+Old Church Slavonic, Church Slavic, Church Slavonic, Old Bulgarian, Old Slavonic	ѩзыкъ словѣньскъ	cu
+Oriya	ଓଡ଼ିଆ	or
+Oromo	Afaan Oromoo	om
+Ossetian, Ossetic	ирон æвзаг	os
+Pāli	पाऴि	pi
+Panjabi, Punjabi	ਪੰਜਾਬੀ, پنجابی	pa
+Pashto, Pushto	پښتو	ps
+Persian	فارسی	fa
+Polish	polski	pl
+Portuguese	Português	pt
+Quechua	Runa Simi, Kichwa	qu
+Romanian, Moldavian, Moldovan	română	ro
+Romansh	rumantsch grischun	rm
+Russian	русский язык	ru
+Samoan	gagana fa'a Samoa	sm
+Sango	yângâ tî sängö	sg
+Sanskrit (Saṁskṛta)	संस्कृतम्	sa
+Sardinian	sardu	sc
+Scottish Gaelic; Gaelic	Gàidhlig	gd
+Serbian	српски језик	sr
+Shona	chiShona	sn
+Sindhi	सिन्धी, سنڌي، سندھی	sd
+Sinhala	සිංහල	si
+Slovak	slovenčina	sk
+Slovene	slovenščina	sl
+Somali	Soomaaliga, af Soomaali	so
+South Ndebele	isiNdebele	nr
+Southern Sotho	Sesotho	st
+Spanish	español, castellano	es
+Sundanese	Basa Sunda	su
+Swahili	Kiswahili	sw
+Swati	SiSwati	ss
+Swedish	svenska	sv
+Tagalog	Wikang Tagalog, ᜏᜒᜃᜅ᜔ ᜆᜄᜎᜓᜄ᜔	tl
+Tahitian	Reo Tahiti	ty
+Tajik	тоҷикӣ, toğikī, تاجیکی	tg
+Tamil	தமிழ்	ta
+Tatar	татарча, tatarça, تاتارچا	tt
+Telugu	తెలుగు	te
+Thai	ไทย	th
+Tibetan Standard, Central Tibetan	བོད་ཡིག	bo
+Tigrinya	ትግርኛ	ti
+Tongan	faka Tonga	to
+Tsonga	Xitsonga	ts
+Tswana	Setswana	tn
+Turkish	Türkçe	tr
+Turkmen	Türkmen, Түркмен	tk
+Twi	Twi	tw
+Uighur	Uyƣurqə, ئۇيغۇرچە	ug
+Ukrainian	українська	uk
+Urdu	اردو	ur
+Uzbek	O'zbek, Ўзбек, أۇزبېك	uz
+Venda	Tshivenḓa	ve
+Vietnamese	Tiếng Việt	vi
+Volapük	Volapük	vo
+Walloon	Walon	wa
+Welsh	Cymraeg	cy
+Western Frisian	Frysk	fy
+Wolof	Wollof	wo
+Xhosa	isiXhosa	xh
+Yiddish	ייִדיש	yi
+Yoruba	Yorùbá	yo
+Zhuang, Chuang	Saɯ cueŋƅ, Saw cuengh	za
+Zulu	isiZulu	zu
